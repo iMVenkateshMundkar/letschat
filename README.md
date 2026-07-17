@@ -1,8 +1,8 @@
-# letschat
-Chat application
+💬 LetsChat
 
-Frontend :- https://github.com/iMVenkateshMundkar/letschat-frontend
+This repository serves as an entry point for the LetsChat project.
 
-Backend :- https://github.com/iMVenkateshMundkar/letschat-backend
-
-Live Site :- https://letschat-web.onrender.com/
+🔗 Project Links
+🌐 Live Demo: https://letschat-web.onrender.com/
+💻 Frontend: https://github.com/iMVenkateshMundkar/letschat-frontend
+⚙️ Backend: https://github.com/iMVenkateshMundkar/letschat-backend
